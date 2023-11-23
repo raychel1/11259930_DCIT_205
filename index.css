@@ -45,7 +45,7 @@ input:focus{
 .img{
     width: 80%;
     height: 400px;
-    background-image: url(/images/first-pic.jfif);
+    background-image: url(/images/back.jpg);
     margin-left: 150px;
     background-size: cover;
     margin-top: 200px;
