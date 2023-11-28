@@ -1,0 +1,19 @@
+.div2{
+    position: absolute;
+}
+h1{
+    font-style: oblique;
+}
+h2{
+    font-weight: 900;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: aqua;
+
+}
+.event1 p{
+    margin-left: 150px;
+    margin-right: 150px;
+    line-height: 1.7rem;
+    font-size: 20px;
+}
