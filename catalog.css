@@ -1,0 +1,65 @@
+.div2{
+    position: absolute;
+}
+.cata{
+    font-style: oblique;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.requirements{
+    font-size: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.para1{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 1.7rem;
+}
+.IT{
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 1.7rem;
+    font-size: 20px;
+}
+.IT2{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 60px;
+    color: aqua;
+}
+h2 h3{
+    color: aqua;
+}
+.aca{
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 1.7rem;
+    margin-top: 100px;
+    font-size: 20px;
+}
+.gain1{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+.gain2{
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 1.7rem;
+    font-size: 20px;
+}
+.learn1{display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 300px;
+    width: 400px;  
+}
+h4{
+   margin-left: 100px;
+   margin-right: 100px;
+   font-size: 20px;
+   margin-top: 50px;
+   color: aqua;
+}
