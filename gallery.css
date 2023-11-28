@@ -1,0 +1,38 @@
+.div2{
+    position: absolute;
+}
+.location{
+    display: flex;
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.fr1{
+    height: 300px;
+    width: 500px;
+}
+.r-loc{
+    font-weight: 300px;
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+.img1-2{
+    margin-top: 180px;
+    height: 300px;
+    width: 600px;
+}
+#img-1{
+    margin-left: 20px;
+}
+.img3-10{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img4-5-9{
+    width: 100%;
+}
+.img6-7{
+        height: 300px;
+        width: 600px; 
+}
