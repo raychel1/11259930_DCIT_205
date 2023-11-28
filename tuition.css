@@ -1,0 +1,44 @@
+.div2{
+    position: absolute;
+}
+.begin{
+    margin-top: 100;
+    font-style: oblique;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.tui-start{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center; 
+    font-size: 18px;
+    line-height: 1.7rem;
+}
+.tui1{
+     margin-left: 100px;
+     margin-right: 100px;
+     font-size: 20px;
+     
+}
+h3{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.reg1{
+    margin-left: 100px;
+    margin-right: 100px; 
+    font-size: 18px;
+    line-height: 1.7rem;
+}
+.t{
+    margin-left: 100px;
+    margin-right: 100px; 
+   
+}
+.inter{
+    margin-left: 100px;
+    margin-right: 100px; 
+    font-size: 18px;
+    line-height: 1.7rem;
+}
