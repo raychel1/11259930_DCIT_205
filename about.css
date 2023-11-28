@@ -6,19 +6,19 @@
 .abt-pg{
     font-style: oblique;
     margin-left: 150px;
-    margin-right: 150px;
+    margin-right: 220px;
 }
 .wri p{
     margin-left: 100px;
-    margin-right: 100px;
+    margin-right:100px;
     margin-top: 50px;
     text-align: justify;
     font-size: 20px;
 }
 strong{
     font-size: 30px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 150px;
+    margin-right: 220px;
     margin-top: 100px;
     color: aqua;
     text-align: justify;
@@ -81,7 +81,7 @@ strong{
     font-weight: 700;
     color: aqua;
 }
-.stu2 img{
+img.stu{ 
     height: 300px;
-    width: 400px;
+    width: 400px; 
 }
